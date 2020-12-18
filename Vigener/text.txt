@@ -1,0 +1,1 @@
+some English text that you want to encrypt
